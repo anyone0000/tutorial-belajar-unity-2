@@ -3,6 +3,6 @@ tutorial belajar unity
 
 
 
-edit colors
+
 add enemy bot
 build and share
